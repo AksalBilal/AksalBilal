@@ -9,7 +9,6 @@
     - Logging(Log4j), reporting, monitoring(ScreenShot+TestResult with Allure Tools) of test results.
     - Doing manual tests for new features. 
 - 🌱 I’m currently learning software testing types and tools
-- 🤔 I’m looking for help with software testing tools
 - 💬 Ask me about software testing
 - 📫 How to reach me;
     - Gmail: bilalaksal@gmail.com
