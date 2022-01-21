@@ -24,6 +24,14 @@
      <a href="https://github-readme-medium-recent-article.vercel.app/medium/@bilalaksal/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bilalaksal/1" alt="Recent Article 1" ></a>
      
 - ## My Github statistics;
-    ![Github stats 1](https://github-readme-stats.vercel.app/api?username=AksalBilal&show_icons=true&theme=aura) 
+<a href="https://github-readme-stats.vercel.app/api?username=AksalBilal&show_icons=true&theme=aura">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AksalBilal&show_icons=true&theme=aura" />
+</a>
+<a href="https://github.com/AksalBilal/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AksalBilal" />
+</a>
+<a href="https://github.com/AksalBilal/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AksalBilal" />
+</a>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AksalBilal)](https://github.com/anuraghazra/github-readme-stats) -->
