@@ -45,10 +45,10 @@
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AksalBilal&theme=radical&date_format=j%20M%5B%20Y%5D" />
 </a>
-<a href="https://github.com/AksalBilal/github-readme-stats">
+<a href="https://github.com/AksalBilal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AksalBilal&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/AksalBilal/github-readme-stats">
+<a href="https://github.com/AksalBilal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AksalBilal&layout=compact&theme=radical" />
 </a>
 </div>
