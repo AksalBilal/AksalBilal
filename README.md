@@ -51,12 +51,16 @@
  <!--Statistics-->
 <div align="center">
   <div align="center">
+   <a href="https://github.com/AksalBilal?tab=stars">
+      <img align="center" src="https://img.shields.io/github/stars/AksalBilal">
+    </a>
 <a href="https://github.com/AksalBilal/github-profile-views-counter">
-    <img align="center" src="https://komarev.com/ghpvc/?username=AksalBilal&color=f75c7e">
+    <img align="center" src="https://komarev.com/ghpvc/?username=AksalBilal">
 </a>
 <a href="https://github.com/AksalBilal?tab=followers">
-    <img align="center"  src="https://img.shields.io/github/followers/AksalBilal?style=flat-square&color=f75c7e">
+    <img align="center"  src="https://img.shields.io/github/followers/AksalBilal">
 </a>
+    <hr>
   </div>
 
 <div>
