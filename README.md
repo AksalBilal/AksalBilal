@@ -17,6 +17,7 @@
 <hr>
 <details open>
   <summary>🔭 I’m currently working on;</summary> 
+  <br>
 <ul>
   <li>Automated API Tests with RestAssured.</li>
   <li>Load Tests with Locust.</li>
