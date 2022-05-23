@@ -79,7 +79,7 @@
 
   <hr>
   <p> WakaTime statistics...</p>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@AksalBilal/c526e5d2-8490-4290-94ae-df51af8e6f8c.svg" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@AksalBilal/7e9b6ab5-949e-471d-a63a-bc38e2c45010.png" /></a>
 </div>
   
 </details>
