@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Coder;I+am+Bilal+AKSAL;Working+as+Software+Developer+In+Test&font=Fira%20Code&center=true&width=780&height=45&color=f75c7e&vCenter=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Coder;I+am+Bilal+AKSAL;Working+as+Software+Developer&font=Fira%20Code&center=true&width=780&height=45&color=f75c7e&vCenter=true&size=30">
 </p>
 
 
@@ -15,19 +15,7 @@
 </div>
 
 <hr>
-<details open>
-  <summary>🔭 I’m currently working on;</summary> 
-  <br>
-<ul>
-  <li>Automated API Tests with RestAssured.</li>
-  <li>Load Tests with Locust.</li>
-  <li>Automated UI testing with Cypress.</li>
-  <li>Test framework with TestNG for Java.</li>
-  <li>Page Object Model as design pattern in test automation.</li>
-  <li>Logging(Log4j), reporting, monitoring(ScreenShot+TestResult with Allure Tools) of test results.</li>
-  <li>Doing manual tests for new features. </li>
-</ul>
-</details>
+
 <hr>
 <details open>
   <summary>📫 How To Reach Me </summary> 
